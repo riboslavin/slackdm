@@ -10,6 +10,8 @@ gem "lita-coin"
 gem "lita-xkcd"
 gem "lita-twss"
 gem "lita-google"
+gem "lita-cowsay"
+gem "lita-catfacts"
 
 # Uncomment to use the HipChat adapter
 # gem "lita-hipchat"
