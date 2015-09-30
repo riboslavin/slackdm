@@ -1,6 +1,8 @@
 #sample Bot
 source "https://rubygems.org"
 
+ruby "2.2.3"
+
 gem "lita"
 gem "lita-slack"
 gem "lita-google-images"
