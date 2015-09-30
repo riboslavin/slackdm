@@ -12,6 +12,7 @@ gem "lita-twss"
 gem "lita-google"
 gem "lita-cowsay"
 gem "lita-catfacts"
+gem "lita-dice"
 
 # Uncomment to use the HipChat adapter
 # gem "lita-hipchat"
